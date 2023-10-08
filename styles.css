@@ -1,0 +1,35 @@
+body {
+  background-image: url('img/bg-library.jpg');
+  background-repeat: no-repeat;
+}
+
+barra-inicio {
+  line-height: 20px;
+}
+
+.nav-he {
+  height: 90px;
+}
+
+.card-book {
+  width: 18rem;
+}
+
+/* .card-img-libro {
+  width: 254.4px;
+  height: 254.4px;
+  min-height: 254.4px;
+} */
+
+.modal-card {
+  width: 18rem
+}
+
+.modal-card-item {
+  width: 15rem;
+}
+
+.row-library {
+  display: flex;
+  justify-content: center;
+}
